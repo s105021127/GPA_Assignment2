@@ -12,7 +12,6 @@ using namespace glm;
 using namespace std;
 
 ////////////
-//註解:看到loadPNG要改成loadImage
 
 const char* myScene = "breakfast_room.obj"; //這裡是load 3D檔的地方
 const char* defaultSceneTex = "tiles.png";
